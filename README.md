@@ -1,4 +1,4 @@
-# ComingSoon-WebSite
+#ComingSoon-WebSite-JavaScript
 #live link:
 https://comingsoon-website-5.netlify.app/
 
